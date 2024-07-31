@@ -1,7 +1,4 @@
-# Submission 2: Stroke Prediction Machine Learning Pipeline
-Nama: Annisa Mufidatun Sholihah
-
-Username dicoding: annisams11
+# Stroke Prediction Machine Learning Pipeline
 
 | | Deskripsi |
 | ----------- | ----------- |
